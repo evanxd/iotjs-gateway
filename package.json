@@ -1,0 +1,20 @@
+{
+  "name": "iotjs-gateway",
+  "version": "0.0.1",
+  "description": "An IoT gateway.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/evanxd/iotjs-gateway"
+  },
+  "author": {
+    "name": "Evan Tseng",
+    "email": "evan@tseng.io"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/evanxd/iotjs-gateway/issues"
+  },
+  "dependencies": {
+    "iotjs-bluetooth-profiles": "0.0.1"
+  }
+}
