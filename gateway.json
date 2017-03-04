@@ -1,6 +1,7 @@
 {
   "mqtt-server": "broker.mqtt-dashboard.com",
   "bluetooth-custom-profiles": {
-    "iotjs-air-quality-sensor-profile": "0.0.1"
+    "iotjs-air-quality-sensor-profile": "0.0.1",
+    "iotjs-reed-switch-profile": "0.0.1",
   }
 }
